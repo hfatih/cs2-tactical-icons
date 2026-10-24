@@ -1,0 +1,2005 @@
+{
+  "schemaVersion": 1,
+  "packageType": "icon_pack",
+  "name": "CS2 Tactical 3D Suite",
+  "description": "Counter-Strike 2 eksiksiz 3D taktiksel ikon paketi: 35 silah, 22 bicak, 7 bomba, 8 techizat, ucan adam noclip ve 1vX clutch modu ile 99 master ikon.",
+  "version": "2.5.0",
+  "author": {
+    "id": "hfatih",
+    "name": "Fatih Han",
+    "url": "https://github.com/Hfatih"
+  },
+  "homepage": "https://github.com/Hfatih",
+  "repository": "https://github.com/Hfatih",
+  "license": "MIT",
+  "requiredActions": [],
+  "requiredIntegrations": [],
+  "assets": {
+    "icons": [
+      {
+        "id": "cs2-porcelain-cs2-ak47",
+        "name": "AK-47 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-ak47.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-ammobox",
+        "name": "Ağır Mühimmat (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-ammobox.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-armor",
+        "name": "Yelek (Kevlar) (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-armor.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-armor-helmet",
+        "name": "Yelek + Kask (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-armor-helmet.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-aug",
+        "name": "AUG (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-aug.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-awp",
+        "name": "AWP (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-awp.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-bayonet",
+        "name": "Bayonet (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-bayonet.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-bizon",
+        "name": "PP-Bizon (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-bizon.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-bowie",
+        "name": "Bowie Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-bowie.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-bullets",
+        "name": "Mermi Kutusu (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-bullets.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-butterfly",
+        "name": "Kelebek Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-butterfly.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-c4",
+        "name": "C4 Çantası (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-c4.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-chicken",
+        "name": "CS2 Tavuk (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-chicken.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-classic-knife",
+        "name": "Klasik Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-classic-knife.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-clutch",
+        "name": "Clutch Modu (1vX) (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-clutch.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-crosshair",
+        "name": "Crosshair (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-crosshair.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-cz75a",
+        "name": "CZ75-Auto (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-cz75a.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-dagger",
+        "name": "Gölge Hançerler (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-dagger.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-deagle",
+        "name": "Desert Eagle (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-deagle.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-decoy",
+        "name": "Yem Bombası (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-decoy.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-default-ct-knife",
+        "name": "Varsayılan CT Bıçağı (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-default-ct-knife.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-default-t-knife",
+        "name": "Varsayılan T Bıçağı (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-default-t-knife.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-defuser",
+        "name": "İmha Kiti (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-defuser.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-demo",
+        "name": "Demo Kaydı (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-demo.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-economy",
+        "name": "Takım Ekonomisi (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-economy.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-elite",
+        "name": "Çift Beretta (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-elite.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-enemy-loss",
+        "name": "Rakip Kayıp Bonusu (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-enemy-loss.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-falchion",
+        "name": "Falchion (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-falchion.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-famas",
+        "name": "FAMAS (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-famas.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-five-seven",
+        "name": "Five-SeveN (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-five-seven.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-flashbang",
+        "name": "Flaş Bombası (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-flashbang.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-flip",
+        "name": "Flip Knife (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-flip.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-force",
+        "name": "Force Buy (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-force.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-full-buy",
+        "name": "Full Buy (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-full-buy.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-g3sg1",
+        "name": "G3SG1 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-g3sg1.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-galil",
+        "name": "Galil AR (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-galil.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-glock",
+        "name": "Glock-18 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-glock.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-gut",
+        "name": "Kanca Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-gut.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-he-grenade",
+        "name": "El Bombası (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-he-grenade.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-hs",
+        "name": "Headshot Oranı (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-hs.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-huntsman",
+        "name": "Huntsman (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-huntsman.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-incgrenade",
+        "name": "Yangın Bombası (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-incgrenade.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-karambit",
+        "name": "Karambit (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-karambit.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-kukri",
+        "name": "Kukri Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-kukri.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-m249",
+        "name": "M249 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-m249.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-m4a1s",
+        "name": "M4A1-S (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-m4a1s.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-m4a4",
+        "name": "M4A4 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-m4a4.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-m9-bayonet",
+        "name": "M9 Bayonet (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-m9-bayonet.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-mac10",
+        "name": "MAC-10 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-mac10.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-mag7",
+        "name": "MAG-7 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-mag7.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-molotov",
+        "name": "Molotof (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-molotov.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-mp5sd",
+        "name": "MP5-SD (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-mp5sd.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-mp7",
+        "name": "MP7 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-mp7.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-mp9",
+        "name": "MP9 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-mp9.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-msg-drop",
+        "name": "Silah İste (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-msg-drop.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-msg-eco",
+        "name": "Eco Çağrısı (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-msg-eco.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-multi",
+        "name": "Multi Kill (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-multi.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-navaja",
+        "name": "Navaja Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-navaja.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-negev",
+        "name": "Negev (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-negev.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-nomad",
+        "name": "Göçebe Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-nomad.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-nova",
+        "name": "Nova (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-nova.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-p2000",
+        "name": "P2000 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-p2000.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-p250",
+        "name": "P250 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-p250.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-p90",
+        "name": "P90 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-p90.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-paracord",
+        "name": "Paracord Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-paracord.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-planted-c4",
+        "name": "Kurulmuş C4 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-planted-c4.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-practice-noclip",
+        "name": "Noclip (Uçan Operatif) (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-practice-noclip.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-practice-rethrow",
+        "name": "Bomba Tekrarı (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-practice-rethrow.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-practice-setup",
+        "name": "Antrenman Modu (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-practice-setup.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-practice-smokes",
+        "name": "Sis Çizgileri (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-practice-smokes.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-radar",
+        "name": "Radar Yakınlaştır (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-radar.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-record",
+        "name": "Kişisel Rekor (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-record.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-reload-binds",
+        "name": "Bind Yenile (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-reload-binds.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-reset",
+        "name": "İstatistik Sıfırla (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-reset.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-revolver",
+        "name": "R8 Revolver (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-revolver.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-sawedoff",
+        "name": "Sawed-Off (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-sawedoff.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-scar20",
+        "name": "SCAR-20 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-scar20.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-scout",
+        "name": "SSG 08 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-scout.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-session",
+        "name": "Oturum Özeti (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-session.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-sg556",
+        "name": "SG 553 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-sg556.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-shield",
+        "name": "Taktik Kalkan (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-shield.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-skeleton",
+        "name": "İskelet Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-skeleton.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-smoke",
+        "name": "Sis Bombası (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-smoke.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-spectate-1",
+        "name": "Oyuncu İzle (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-spectate-1.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-spectator-bomb",
+        "name": "Bomba Süresi (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-spectator-bomb.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-spectator-economy",
+        "name": "İzleyici Ekonomisi (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-spectator-economy.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-status",
+        "name": "Maç Durumu (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-status.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-stiletto",
+        "name": "Sustalı Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-stiletto.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-survival-knife",
+        "name": "Hayatta Kalma Bıçağı (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-survival-knife.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-talon",
+        "name": "Talon Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-talon.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-taser",
+        "name": "Zeus x27 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-taser.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-tec9",
+        "name": "Tec-9 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-tec9.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-timeouts",
+        "name": "Mola / Timeout (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-timeouts.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-ump45",
+        "name": "UMP-45 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-ump45.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-ursus",
+        "name": "Ursus Bıçak (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-ursus.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-usps",
+        "name": "USP-S (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-usps.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-utility",
+        "name": "Tam Bomba Seti (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-utility.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-viewmodel",
+        "name": "Viewmodel (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-viewmodel.png"
+      },
+      {
+        "id": "cs2-porcelain-cs2-xm1014",
+        "name": "XM1014 (Porselen)",
+        "path": "assets/icons/cs2-porcelain-cs2-xm1014.png"
+      },
+      {
+        "id": "cs2-clay-cs2-ak47",
+        "name": "AK-47 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-ak47.png"
+      },
+      {
+        "id": "cs2-clay-cs2-ammobox",
+        "name": "Ağır Mühimmat (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-ammobox.png"
+      },
+      {
+        "id": "cs2-clay-cs2-armor",
+        "name": "Yelek (Kevlar) (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-armor.png"
+      },
+      {
+        "id": "cs2-clay-cs2-armor-helmet",
+        "name": "Yelek + Kask (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-armor-helmet.png"
+      },
+      {
+        "id": "cs2-clay-cs2-aug",
+        "name": "AUG (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-aug.png"
+      },
+      {
+        "id": "cs2-clay-cs2-awp",
+        "name": "AWP (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-awp.png"
+      },
+      {
+        "id": "cs2-clay-cs2-bayonet",
+        "name": "Bayonet (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-bayonet.png"
+      },
+      {
+        "id": "cs2-clay-cs2-bizon",
+        "name": "PP-Bizon (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-bizon.png"
+      },
+      {
+        "id": "cs2-clay-cs2-bowie",
+        "name": "Bowie Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-bowie.png"
+      },
+      {
+        "id": "cs2-clay-cs2-bullets",
+        "name": "Mermi Kutusu (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-bullets.png"
+      },
+      {
+        "id": "cs2-clay-cs2-butterfly",
+        "name": "Kelebek Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-butterfly.png"
+      },
+      {
+        "id": "cs2-clay-cs2-c4",
+        "name": "C4 Çantası (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-c4.png"
+      },
+      {
+        "id": "cs2-clay-cs2-chicken",
+        "name": "CS2 Tavuk (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-chicken.png"
+      },
+      {
+        "id": "cs2-clay-cs2-classic-knife",
+        "name": "Klasik Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-classic-knife.png"
+      },
+      {
+        "id": "cs2-clay-cs2-clutch",
+        "name": "Clutch Modu (1vX) (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-clutch.png"
+      },
+      {
+        "id": "cs2-clay-cs2-crosshair",
+        "name": "Crosshair (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-crosshair.png"
+      },
+      {
+        "id": "cs2-clay-cs2-cz75a",
+        "name": "CZ75-Auto (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-cz75a.png"
+      },
+      {
+        "id": "cs2-clay-cs2-dagger",
+        "name": "Gölge Hançerler (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-dagger.png"
+      },
+      {
+        "id": "cs2-clay-cs2-deagle",
+        "name": "Desert Eagle (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-deagle.png"
+      },
+      {
+        "id": "cs2-clay-cs2-decoy",
+        "name": "Yem Bombası (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-decoy.png"
+      },
+      {
+        "id": "cs2-clay-cs2-default-ct-knife",
+        "name": "Varsayılan CT Bıçağı (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-default-ct-knife.png"
+      },
+      {
+        "id": "cs2-clay-cs2-default-t-knife",
+        "name": "Varsayılan T Bıçağı (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-default-t-knife.png"
+      },
+      {
+        "id": "cs2-clay-cs2-defuser",
+        "name": "İmha Kiti (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-defuser.png"
+      },
+      {
+        "id": "cs2-clay-cs2-demo",
+        "name": "Demo Kaydı (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-demo.png"
+      },
+      {
+        "id": "cs2-clay-cs2-economy",
+        "name": "Takım Ekonomisi (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-economy.png"
+      },
+      {
+        "id": "cs2-clay-cs2-elite",
+        "name": "Çift Beretta (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-elite.png"
+      },
+      {
+        "id": "cs2-clay-cs2-enemy-loss",
+        "name": "Rakip Kayıp Bonusu (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-enemy-loss.png"
+      },
+      {
+        "id": "cs2-clay-cs2-falchion",
+        "name": "Falchion (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-falchion.png"
+      },
+      {
+        "id": "cs2-clay-cs2-famas",
+        "name": "FAMAS (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-famas.png"
+      },
+      {
+        "id": "cs2-clay-cs2-five-seven",
+        "name": "Five-SeveN (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-five-seven.png"
+      },
+      {
+        "id": "cs2-clay-cs2-flashbang",
+        "name": "Flaş Bombası (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-flashbang.png"
+      },
+      {
+        "id": "cs2-clay-cs2-flip",
+        "name": "Flip Knife (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-flip.png"
+      },
+      {
+        "id": "cs2-clay-cs2-force",
+        "name": "Force Buy (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-force.png"
+      },
+      {
+        "id": "cs2-clay-cs2-full-buy",
+        "name": "Full Buy (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-full-buy.png"
+      },
+      {
+        "id": "cs2-clay-cs2-g3sg1",
+        "name": "G3SG1 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-g3sg1.png"
+      },
+      {
+        "id": "cs2-clay-cs2-galil",
+        "name": "Galil AR (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-galil.png"
+      },
+      {
+        "id": "cs2-clay-cs2-glock",
+        "name": "Glock-18 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-glock.png"
+      },
+      {
+        "id": "cs2-clay-cs2-gut",
+        "name": "Kanca Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-gut.png"
+      },
+      {
+        "id": "cs2-clay-cs2-he-grenade",
+        "name": "El Bombası (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-he-grenade.png"
+      },
+      {
+        "id": "cs2-clay-cs2-hs",
+        "name": "Headshot Oranı (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-hs.png"
+      },
+      {
+        "id": "cs2-clay-cs2-huntsman",
+        "name": "Huntsman (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-huntsman.png"
+      },
+      {
+        "id": "cs2-clay-cs2-incgrenade",
+        "name": "Yangın Bombası (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-incgrenade.png"
+      },
+      {
+        "id": "cs2-clay-cs2-karambit",
+        "name": "Karambit (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-karambit.png"
+      },
+      {
+        "id": "cs2-clay-cs2-kukri",
+        "name": "Kukri Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-kukri.png"
+      },
+      {
+        "id": "cs2-clay-cs2-m249",
+        "name": "M249 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-m249.png"
+      },
+      {
+        "id": "cs2-clay-cs2-m4a1s",
+        "name": "M4A1-S (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-m4a1s.png"
+      },
+      {
+        "id": "cs2-clay-cs2-m4a4",
+        "name": "M4A4 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-m4a4.png"
+      },
+      {
+        "id": "cs2-clay-cs2-m9-bayonet",
+        "name": "M9 Bayonet (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-m9-bayonet.png"
+      },
+      {
+        "id": "cs2-clay-cs2-mac10",
+        "name": "MAC-10 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-mac10.png"
+      },
+      {
+        "id": "cs2-clay-cs2-mag7",
+        "name": "MAG-7 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-mag7.png"
+      },
+      {
+        "id": "cs2-clay-cs2-molotov",
+        "name": "Molotof (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-molotov.png"
+      },
+      {
+        "id": "cs2-clay-cs2-mp5sd",
+        "name": "MP5-SD (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-mp5sd.png"
+      },
+      {
+        "id": "cs2-clay-cs2-mp7",
+        "name": "MP7 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-mp7.png"
+      },
+      {
+        "id": "cs2-clay-cs2-mp9",
+        "name": "MP9 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-mp9.png"
+      },
+      {
+        "id": "cs2-clay-cs2-msg-drop",
+        "name": "Silah İste (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-msg-drop.png"
+      },
+      {
+        "id": "cs2-clay-cs2-msg-eco",
+        "name": "Eco Çağrısı (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-msg-eco.png"
+      },
+      {
+        "id": "cs2-clay-cs2-multi",
+        "name": "Multi Kill (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-multi.png"
+      },
+      {
+        "id": "cs2-clay-cs2-navaja",
+        "name": "Navaja Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-navaja.png"
+      },
+      {
+        "id": "cs2-clay-cs2-negev",
+        "name": "Negev (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-negev.png"
+      },
+      {
+        "id": "cs2-clay-cs2-nomad",
+        "name": "Göçebe Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-nomad.png"
+      },
+      {
+        "id": "cs2-clay-cs2-nova",
+        "name": "Nova (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-nova.png"
+      },
+      {
+        "id": "cs2-clay-cs2-p2000",
+        "name": "P2000 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-p2000.png"
+      },
+      {
+        "id": "cs2-clay-cs2-p250",
+        "name": "P250 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-p250.png"
+      },
+      {
+        "id": "cs2-clay-cs2-p90",
+        "name": "P90 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-p90.png"
+      },
+      {
+        "id": "cs2-clay-cs2-paracord",
+        "name": "Paracord Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-paracord.png"
+      },
+      {
+        "id": "cs2-clay-cs2-planted-c4",
+        "name": "Kurulmuş C4 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-planted-c4.png"
+      },
+      {
+        "id": "cs2-clay-cs2-practice-noclip",
+        "name": "Noclip (Uçan Operatif) (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-practice-noclip.png"
+      },
+      {
+        "id": "cs2-clay-cs2-practice-rethrow",
+        "name": "Bomba Tekrarı (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-practice-rethrow.png"
+      },
+      {
+        "id": "cs2-clay-cs2-practice-setup",
+        "name": "Antrenman Modu (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-practice-setup.png"
+      },
+      {
+        "id": "cs2-clay-cs2-practice-smokes",
+        "name": "Sis Çizgileri (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-practice-smokes.png"
+      },
+      {
+        "id": "cs2-clay-cs2-radar",
+        "name": "Radar Yakınlaştır (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-radar.png"
+      },
+      {
+        "id": "cs2-clay-cs2-record",
+        "name": "Kişisel Rekor (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-record.png"
+      },
+      {
+        "id": "cs2-clay-cs2-reload-binds",
+        "name": "Bind Yenile (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-reload-binds.png"
+      },
+      {
+        "id": "cs2-clay-cs2-reset",
+        "name": "İstatistik Sıfırla (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-reset.png"
+      },
+      {
+        "id": "cs2-clay-cs2-revolver",
+        "name": "R8 Revolver (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-revolver.png"
+      },
+      {
+        "id": "cs2-clay-cs2-sawedoff",
+        "name": "Sawed-Off (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-sawedoff.png"
+      },
+      {
+        "id": "cs2-clay-cs2-scar20",
+        "name": "SCAR-20 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-scar20.png"
+      },
+      {
+        "id": "cs2-clay-cs2-scout",
+        "name": "SSG 08 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-scout.png"
+      },
+      {
+        "id": "cs2-clay-cs2-session",
+        "name": "Oturum Özeti (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-session.png"
+      },
+      {
+        "id": "cs2-clay-cs2-sg556",
+        "name": "SG 553 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-sg556.png"
+      },
+      {
+        "id": "cs2-clay-cs2-shield",
+        "name": "Taktik Kalkan (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-shield.png"
+      },
+      {
+        "id": "cs2-clay-cs2-skeleton",
+        "name": "İskelet Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-skeleton.png"
+      },
+      {
+        "id": "cs2-clay-cs2-smoke",
+        "name": "Sis Bombası (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-smoke.png"
+      },
+      {
+        "id": "cs2-clay-cs2-spectate-1",
+        "name": "Oyuncu İzle (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-spectate-1.png"
+      },
+      {
+        "id": "cs2-clay-cs2-spectator-bomb",
+        "name": "Bomba Süresi (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-spectator-bomb.png"
+      },
+      {
+        "id": "cs2-clay-cs2-spectator-economy",
+        "name": "İzleyici Ekonomisi (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-spectator-economy.png"
+      },
+      {
+        "id": "cs2-clay-cs2-status",
+        "name": "Maç Durumu (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-status.png"
+      },
+      {
+        "id": "cs2-clay-cs2-stiletto",
+        "name": "Sustalı Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-stiletto.png"
+      },
+      {
+        "id": "cs2-clay-cs2-survival-knife",
+        "name": "Hayatta Kalma Bıçağı (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-survival-knife.png"
+      },
+      {
+        "id": "cs2-clay-cs2-talon",
+        "name": "Talon Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-talon.png"
+      },
+      {
+        "id": "cs2-clay-cs2-taser",
+        "name": "Zeus x27 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-taser.png"
+      },
+      {
+        "id": "cs2-clay-cs2-tec9",
+        "name": "Tec-9 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-tec9.png"
+      },
+      {
+        "id": "cs2-clay-cs2-timeouts",
+        "name": "Mola / Timeout (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-timeouts.png"
+      },
+      {
+        "id": "cs2-clay-cs2-ump45",
+        "name": "UMP-45 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-ump45.png"
+      },
+      {
+        "id": "cs2-clay-cs2-ursus",
+        "name": "Ursus Bıçak (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-ursus.png"
+      },
+      {
+        "id": "cs2-clay-cs2-usps",
+        "name": "USP-S (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-usps.png"
+      },
+      {
+        "id": "cs2-clay-cs2-utility",
+        "name": "Tam Bomba Seti (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-utility.png"
+      },
+      {
+        "id": "cs2-clay-cs2-viewmodel",
+        "name": "Viewmodel (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-viewmodel.png"
+      },
+      {
+        "id": "cs2-clay-cs2-xm1014",
+        "name": "XM1014 (3D Kil)",
+        "path": "assets/icons/cs2-clay-cs2-xm1014.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-ak47",
+        "name": "AK-47 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-ak47.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-ammobox",
+        "name": "Ağır Mühimmat (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-ammobox.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-armor",
+        "name": "Yelek (Kevlar) (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-armor.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-armor-helmet",
+        "name": "Yelek + Kask (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-armor-helmet.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-aug",
+        "name": "AUG (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-aug.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-awp",
+        "name": "AWP (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-awp.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-bayonet",
+        "name": "Bayonet (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-bayonet.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-bizon",
+        "name": "PP-Bizon (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-bizon.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-bowie",
+        "name": "Bowie Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-bowie.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-bullets",
+        "name": "Mermi Kutusu (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-bullets.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-butterfly",
+        "name": "Kelebek Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-butterfly.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-c4",
+        "name": "C4 Çantası (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-c4.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-chicken",
+        "name": "CS2 Tavuk (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-chicken.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-classic-knife",
+        "name": "Klasik Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-classic-knife.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-clutch",
+        "name": "Clutch Modu (1vX) (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-clutch.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-crosshair",
+        "name": "Crosshair (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-crosshair.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-cz75a",
+        "name": "CZ75-Auto (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-cz75a.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-dagger",
+        "name": "Gölge Hançerler (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-dagger.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-deagle",
+        "name": "Desert Eagle (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-deagle.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-decoy",
+        "name": "Yem Bombası (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-decoy.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-default-ct-knife",
+        "name": "Varsayılan CT Bıçağı (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-default-ct-knife.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-default-t-knife",
+        "name": "Varsayılan T Bıçağı (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-default-t-knife.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-defuser",
+        "name": "İmha Kiti (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-defuser.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-demo",
+        "name": "Demo Kaydı (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-demo.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-economy",
+        "name": "Takım Ekonomisi (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-economy.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-elite",
+        "name": "Çift Beretta (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-elite.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-enemy-loss",
+        "name": "Rakip Kayıp Bonusu (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-enemy-loss.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-falchion",
+        "name": "Falchion (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-falchion.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-famas",
+        "name": "FAMAS (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-famas.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-five-seven",
+        "name": "Five-SeveN (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-five-seven.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-flashbang",
+        "name": "Flaş Bombası (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-flashbang.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-flip",
+        "name": "Flip Knife (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-flip.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-force",
+        "name": "Force Buy (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-force.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-full-buy",
+        "name": "Full Buy (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-full-buy.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-g3sg1",
+        "name": "G3SG1 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-g3sg1.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-galil",
+        "name": "Galil AR (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-galil.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-glock",
+        "name": "Glock-18 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-glock.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-gut",
+        "name": "Kanca Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-gut.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-he-grenade",
+        "name": "El Bombası (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-he-grenade.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-hs",
+        "name": "Headshot Oranı (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-hs.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-huntsman",
+        "name": "Huntsman (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-huntsman.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-incgrenade",
+        "name": "Yangın Bombası (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-incgrenade.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-karambit",
+        "name": "Karambit (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-karambit.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-kukri",
+        "name": "Kukri Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-kukri.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-m249",
+        "name": "M249 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-m249.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-m4a1s",
+        "name": "M4A1-S (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-m4a1s.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-m4a4",
+        "name": "M4A4 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-m4a4.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-m9-bayonet",
+        "name": "M9 Bayonet (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-m9-bayonet.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-mac10",
+        "name": "MAC-10 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-mac10.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-mag7",
+        "name": "MAG-7 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-mag7.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-molotov",
+        "name": "Molotof (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-molotov.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-mp5sd",
+        "name": "MP5-SD (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-mp5sd.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-mp7",
+        "name": "MP7 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-mp7.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-mp9",
+        "name": "MP9 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-mp9.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-msg-drop",
+        "name": "Silah İste (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-msg-drop.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-msg-eco",
+        "name": "Eco Çağrısı (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-msg-eco.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-multi",
+        "name": "Multi Kill (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-multi.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-navaja",
+        "name": "Navaja Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-navaja.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-negev",
+        "name": "Negev (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-negev.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-nomad",
+        "name": "Göçebe Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-nomad.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-nova",
+        "name": "Nova (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-nova.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-p2000",
+        "name": "P2000 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-p2000.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-p250",
+        "name": "P250 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-p250.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-p90",
+        "name": "P90 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-p90.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-paracord",
+        "name": "Paracord Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-paracord.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-planted-c4",
+        "name": "Kurulmuş C4 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-planted-c4.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-practice-noclip",
+        "name": "Noclip (Uçan Operatif) (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-practice-noclip.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-practice-rethrow",
+        "name": "Bomba Tekrarı (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-practice-rethrow.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-practice-setup",
+        "name": "Antrenman Modu (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-practice-setup.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-practice-smokes",
+        "name": "Sis Çizgileri (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-practice-smokes.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-radar",
+        "name": "Radar Yakınlaştır (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-radar.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-record",
+        "name": "Kişisel Rekor (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-record.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-reload-binds",
+        "name": "Bind Yenile (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-reload-binds.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-reset",
+        "name": "İstatistik Sıfırla (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-reset.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-revolver",
+        "name": "R8 Revolver (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-revolver.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-sawedoff",
+        "name": "Sawed-Off (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-sawedoff.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-scar20",
+        "name": "SCAR-20 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-scar20.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-scout",
+        "name": "SSG 08 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-scout.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-session",
+        "name": "Oturum Özeti (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-session.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-sg556",
+        "name": "SG 553 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-sg556.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-shield",
+        "name": "Taktik Kalkan (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-shield.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-skeleton",
+        "name": "İskelet Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-skeleton.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-smoke",
+        "name": "Sis Bombası (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-smoke.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-spectate-1",
+        "name": "Oyuncu İzle (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-spectate-1.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-spectator-bomb",
+        "name": "Bomba Süresi (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-spectator-bomb.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-spectator-economy",
+        "name": "İzleyici Ekonomisi (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-spectator-economy.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-status",
+        "name": "Maç Durumu (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-status.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-stiletto",
+        "name": "Sustalı Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-stiletto.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-survival-knife",
+        "name": "Hayatta Kalma Bıçağı (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-survival-knife.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-talon",
+        "name": "Talon Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-talon.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-taser",
+        "name": "Zeus x27 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-taser.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-tec9",
+        "name": "Tec-9 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-tec9.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-timeouts",
+        "name": "Mola / Timeout (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-timeouts.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-ump45",
+        "name": "UMP-45 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-ump45.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-ursus",
+        "name": "Ursus Bıçak (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-ursus.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-usps",
+        "name": "USP-S (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-usps.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-utility",
+        "name": "Tam Bomba Seti (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-utility.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-viewmodel",
+        "name": "Viewmodel (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-viewmodel.png"
+      },
+      {
+        "id": "cs2-carbon-cs2-xm1014",
+        "name": "XM1014 (Karbon)",
+        "path": "assets/icons/cs2-carbon-cs2-xm1014.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-ak47",
+        "name": "AK-47",
+        "path": "assets/icons/cs2-ak47.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-ammobox",
+        "name": "Ağır Mühimmat",
+        "path": "assets/icons/cs2-ammobox.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-armor",
+        "name": "Yelek (Kevlar)",
+        "path": "assets/icons/cs2-armor.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-armor-helmet",
+        "name": "Yelek + Kask",
+        "path": "assets/icons/cs2-armor-helmet.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-aug",
+        "name": "AUG",
+        "path": "assets/icons/cs2-aug.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-awp",
+        "name": "AWP",
+        "path": "assets/icons/cs2-awp.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-bayonet",
+        "name": "Bayonet",
+        "path": "assets/icons/cs2-bayonet.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-bizon",
+        "name": "PP-Bizon",
+        "path": "assets/icons/cs2-bizon.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-bowie",
+        "name": "Bowie Bıçak",
+        "path": "assets/icons/cs2-bowie.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-bullets",
+        "name": "Mermi Kutusu",
+        "path": "assets/icons/cs2-bullets.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-butterfly",
+        "name": "Kelebek Bıçak",
+        "path": "assets/icons/cs2-butterfly.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-c4",
+        "name": "C4 Çantası",
+        "path": "assets/icons/cs2-c4.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-chicken",
+        "name": "CS2 Tavuk",
+        "path": "assets/icons/cs2-chicken.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-classic-knife",
+        "name": "Klasik Bıçak",
+        "path": "assets/icons/cs2-classic-knife.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-clutch",
+        "name": "Clutch Modu (1vX)",
+        "path": "assets/icons/cs2-clutch.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-crosshair",
+        "name": "Crosshair",
+        "path": "assets/icons/cs2-crosshair.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-cz75a",
+        "name": "CZ75-Auto",
+        "path": "assets/icons/cs2-cz75a.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-dagger",
+        "name": "Gölge Hançerler",
+        "path": "assets/icons/cs2-dagger.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-deagle",
+        "name": "Desert Eagle",
+        "path": "assets/icons/cs2-deagle.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-decoy",
+        "name": "Yem Bombası",
+        "path": "assets/icons/cs2-decoy.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-default-ct-knife",
+        "name": "Varsayılan CT Bıçağı",
+        "path": "assets/icons/cs2-default-ct-knife.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-default-t-knife",
+        "name": "Varsayılan T Bıçağı",
+        "path": "assets/icons/cs2-default-t-knife.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-defuser",
+        "name": "İmha Kiti",
+        "path": "assets/icons/cs2-defuser.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-demo",
+        "name": "Demo Kaydı",
+        "path": "assets/icons/cs2-demo.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-economy",
+        "name": "Takım Ekonomisi",
+        "path": "assets/icons/cs2-economy.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-elite",
+        "name": "Çift Beretta",
+        "path": "assets/icons/cs2-elite.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-enemy-loss",
+        "name": "Rakip Kayıp Bonusu",
+        "path": "assets/icons/cs2-enemy-loss.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-falchion",
+        "name": "Falchion",
+        "path": "assets/icons/cs2-falchion.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-famas",
+        "name": "FAMAS",
+        "path": "assets/icons/cs2-famas.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-five-seven",
+        "name": "Five-SeveN",
+        "path": "assets/icons/cs2-five-seven.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-flashbang",
+        "name": "Flaş Bombası",
+        "path": "assets/icons/cs2-flashbang.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-flip",
+        "name": "Flip Knife",
+        "path": "assets/icons/cs2-flip.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-force",
+        "name": "Force Buy",
+        "path": "assets/icons/cs2-force.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-full-buy",
+        "name": "Full Buy",
+        "path": "assets/icons/cs2-full-buy.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-g3sg1",
+        "name": "G3SG1",
+        "path": "assets/icons/cs2-g3sg1.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-galil",
+        "name": "Galil AR",
+        "path": "assets/icons/cs2-galil.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-glock",
+        "name": "Glock-18",
+        "path": "assets/icons/cs2-glock.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-gut",
+        "name": "Kanca Bıçak",
+        "path": "assets/icons/cs2-gut.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-he-grenade",
+        "name": "El Bombası",
+        "path": "assets/icons/cs2-he-grenade.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-hs",
+        "name": "Headshot Oranı",
+        "path": "assets/icons/cs2-hs.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-huntsman",
+        "name": "Huntsman",
+        "path": "assets/icons/cs2-huntsman.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-incgrenade",
+        "name": "Yangın Bombası",
+        "path": "assets/icons/cs2-incgrenade.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-karambit",
+        "name": "Karambit",
+        "path": "assets/icons/cs2-karambit.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-kukri",
+        "name": "Kukri Bıçak",
+        "path": "assets/icons/cs2-kukri.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-m249",
+        "name": "M249",
+        "path": "assets/icons/cs2-m249.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-m4a1s",
+        "name": "M4A1-S",
+        "path": "assets/icons/cs2-m4a1s.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-m4a4",
+        "name": "M4A4",
+        "path": "assets/icons/cs2-m4a4.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-m9-bayonet",
+        "name": "M9 Bayonet",
+        "path": "assets/icons/cs2-m9-bayonet.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-mac10",
+        "name": "MAC-10",
+        "path": "assets/icons/cs2-mac10.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-mag7",
+        "name": "MAG-7",
+        "path": "assets/icons/cs2-mag7.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-molotov",
+        "name": "Molotof",
+        "path": "assets/icons/cs2-molotov.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-mp5sd",
+        "name": "MP5-SD",
+        "path": "assets/icons/cs2-mp5sd.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-mp7",
+        "name": "MP7",
+        "path": "assets/icons/cs2-mp7.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-mp9",
+        "name": "MP9",
+        "path": "assets/icons/cs2-mp9.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-msg-drop",
+        "name": "Silah İste",
+        "path": "assets/icons/cs2-msg-drop.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-msg-eco",
+        "name": "Eco Çağrısı",
+        "path": "assets/icons/cs2-msg-eco.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-multi",
+        "name": "Multi Kill",
+        "path": "assets/icons/cs2-multi.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-navaja",
+        "name": "Navaja Bıçak",
+        "path": "assets/icons/cs2-navaja.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-negev",
+        "name": "Negev",
+        "path": "assets/icons/cs2-negev.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-nomad",
+        "name": "Göçebe Bıçak",
+        "path": "assets/icons/cs2-nomad.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-nova",
+        "name": "Nova",
+        "path": "assets/icons/cs2-nova.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-p2000",
+        "name": "P2000",
+        "path": "assets/icons/cs2-p2000.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-p250",
+        "name": "P250",
+        "path": "assets/icons/cs2-p250.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-p90",
+        "name": "P90",
+        "path": "assets/icons/cs2-p90.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-paracord",
+        "name": "Paracord Bıçak",
+        "path": "assets/icons/cs2-paracord.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-planted-c4",
+        "name": "Kurulmuş C4",
+        "path": "assets/icons/cs2-planted-c4.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-practice-noclip",
+        "name": "Noclip (Uçan Operatif)",
+        "path": "assets/icons/cs2-practice-noclip.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-practice-rethrow",
+        "name": "Bomba Tekrarı",
+        "path": "assets/icons/cs2-practice-rethrow.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-practice-setup",
+        "name": "Antrenman Modu",
+        "path": "assets/icons/cs2-practice-setup.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-practice-smokes",
+        "name": "Sis Çizgileri",
+        "path": "assets/icons/cs2-practice-smokes.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-radar",
+        "name": "Radar Yakınlaştır",
+        "path": "assets/icons/cs2-radar.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-record",
+        "name": "Kişisel Rekor",
+        "path": "assets/icons/cs2-record.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-reload-binds",
+        "name": "Bind Yenile",
+        "path": "assets/icons/cs2-reload-binds.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-reset",
+        "name": "İstatistik Sıfırla",
+        "path": "assets/icons/cs2-reset.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-revolver",
+        "name": "R8 Revolver",
+        "path": "assets/icons/cs2-revolver.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-sawedoff",
+        "name": "Sawed-Off",
+        "path": "assets/icons/cs2-sawedoff.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-scar20",
+        "name": "SCAR-20",
+        "path": "assets/icons/cs2-scar20.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-scout",
+        "name": "SSG 08",
+        "path": "assets/icons/cs2-scout.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-session",
+        "name": "Oturum Özeti",
+        "path": "assets/icons/cs2-session.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-sg556",
+        "name": "SG 553",
+        "path": "assets/icons/cs2-sg556.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-shield",
+        "name": "Taktik Kalkan",
+        "path": "assets/icons/cs2-shield.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-skeleton",
+        "name": "İskelet Bıçak",
+        "path": "assets/icons/cs2-skeleton.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-smoke",
+        "name": "Sis Bombası",
+        "path": "assets/icons/cs2-smoke.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-spectate-1",
+        "name": "Oyuncu İzle",
+        "path": "assets/icons/cs2-spectate-1.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-spectator-bomb",
+        "name": "Bomba Süresi",
+        "path": "assets/icons/cs2-spectator-bomb.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-spectator-economy",
+        "name": "İzleyici Ekonomisi",
+        "path": "assets/icons/cs2-spectator-economy.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-status",
+        "name": "Maç Durumu",
+        "path": "assets/icons/cs2-status.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-stiletto",
+        "name": "Sustalı Bıçak",
+        "path": "assets/icons/cs2-stiletto.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-survival-knife",
+        "name": "Hayatta Kalma Bıçağı",
+        "path": "assets/icons/cs2-survival-knife.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-talon",
+        "name": "Talon Bıçak",
+        "path": "assets/icons/cs2-talon.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-taser",
+        "name": "Zeus x27",
+        "path": "assets/icons/cs2-taser.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-tec9",
+        "name": "Tec-9",
+        "path": "assets/icons/cs2-tec9.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-timeouts",
+        "name": "Mola / Timeout",
+        "path": "assets/icons/cs2-timeouts.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-ump45",
+        "name": "UMP-45",
+        "path": "assets/icons/cs2-ump45.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-ursus",
+        "name": "Ursus Bıçak",
+        "path": "assets/icons/cs2-ursus.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-usps",
+        "name": "USP-S",
+        "path": "assets/icons/cs2-usps.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-utility",
+        "name": "Tam Bomba Seti",
+        "path": "assets/icons/cs2-utility.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-viewmodel",
+        "name": "Viewmodel",
+        "path": "assets/icons/cs2-viewmodel.png"
+      },
+      {
+        "id": "cs2-tactical-cs2-xm1014",
+        "name": "XM1014",
+        "path": "assets/icons/cs2-xm1014.png"
+      }
+    ],
+    "sounds": []
+  },
+  "coverImage": "cover.png",
+  "createdWith": "evox-deck-v2",
+  "createdAt": "2026-10-24T06:20:00.000Z"
+}
