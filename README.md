@@ -65,7 +65,7 @@ C4 Patlayıcı Çantası, Kurulmuş C4 Bombası, İmha Kiti (Defuse Kit), Kevlar
 
 ## 🚀 Kurulum & Kullanım
 
-### 1. Elgato Stream Deck & Loupedeck
+### 1. Macro Decks & Loupedeck
 1. İstediğiniz kaplama klasöründeki (`porcelain/`, `glyphs/` veya `icons/`) PNG dosyalarını açın.
 2. Stream Deck yazılımında istediğiniz tuşa sürükleyip bırakın.
 3. Tuşa basma eylemini veya kısayol tuşunu atayın.
