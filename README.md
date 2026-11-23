@@ -3,7 +3,7 @@
 [![CS2 Version](https://img.shields.io/badge/Counter--Strike%202-Official%20Depot-orange.svg?style=for-the-badge&logo=counter-strike)](https://store.steampowered.com/app/730/CounterStrike_2/)
 [![Icons Count](https://img.shields.io/badge/Icons-99%20x%203%20Finishes%20(297%2B)-38bdf8.svg?style=for-the-badge)](https://github.com/Hfatih/cs2-tactical-icons)
 [![Compatibility](https://img.shields.io/badge/Hardware-Stream%20Deck%20%7C%20Loupedeck%20%7C%20evoX-10b981.svg?style=for-the-badge)](https://github.com/Hfatih/cs2-tactical-icons)
-[![License](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-purple.svg?style=for-the-badge)](LICENSE)
 
 > **Valve Counter-Strike 2 resmi oyun vektörleri** üzerinden modellenmiş, gerçek 3D hacimli porselen ve mat kil dokusuna sahip 99 parçalık eksiksiz taktiksel ikon paketi ve 15 tuşlu interaktif Stream Deck donanım simülatörü.
 
@@ -86,4 +86,6 @@ C4 Patlayıcı Çantası, Kurulmuş C4 Bombası, İmha Kiti (Defuse Kit), Kevlar
 ---
 
 ## 📄 Lisans
-Bu proje [MIT Lisansı](LICENSE) altında dağıtılmaktadır. CS2 ve silah logoları Valve Corporation'ın tescilli markalarıdır.
+Bu proje [GNU GPL v3.0](LICENSE) altında dağıtılmaktadır. CS2 ve silah logoları Valve Corporation'ın tescilli markalarıdır.
+
+Bu sürümde bize ait kod ve özgün içerik [GNU GPL v3.0](LICENSE) (GPL-3.0-only) altında yayımlanır. Üçüncü taraf kod, yazı tipleri, görseller, veriler ve marka öğeleri kendi lisans ve atıflarına tabidir. [Önceki lisans ve telif bildirimi](licenses/previous-license.txt). Valve oyun vektörleri ve marka öğeleri Valve’ın koşullarına tabidir.
