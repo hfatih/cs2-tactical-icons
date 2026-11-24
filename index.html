@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CS2 3D Tactical Suite — evoX & Macro Keypads 99 İkon Paketi</title>
-  <link rel="icon" href="CS2 Tactical Icons/porcelain/cs2-karambit.png" type="image/png">
+  <link rel="icon" href="porcelain/cs2-karambit.png" type="image/png">
   <style>
     :root {
       --bg: #090d16;
@@ -528,7 +528,7 @@
 <body>
   <header>
     <div class="brand">
-      <img src="CS2 Tactical Icons/porcelain/cs2-karambit.png" alt="CS2" class="brand-logo" onerror="this.onerror=null; this.src='porcelain/cs2-karambit.png';">
+      <img src="porcelain/cs2-karambit.png" alt="CS2" class="brand-logo">
       <div class="brand-text">
         <h1>CS2 3D Tactical Suite</h1>
         <p>99 Resmi CS2 İkonu • 15-Tuşlu Stream Deck Simülatörü</p>
@@ -662,8 +662,7 @@
     }
 
     function getImagePath(folder, file) {
-      // Works both from root (cs2_icons_gallery.html) and subfolder (CS2 Tactical Icons/index.html)
-      return 'CS2 Tactical Icons/' + folder + '/' + file;
+      return folder + '/' + file;
     }
 
     // Render the 15-Key Stream Deck Hardware Keys
@@ -678,10 +677,6 @@
         const img = document.createElement('img');
         img.alt = it.title;
         img.src = getImagePath(currentFinish, it.file);
-        img.onerror = function() {
-          this.onerror = null;
-          this.src = currentFinish + '/' + it.file;
-        };
 
         const span = document.createElement('span');
         span.textContent = it.title;
@@ -726,10 +721,6 @@
         const img = document.createElement('img');
         img.alt = it.title;
         img.src = getImagePath(currentFinish, it.file);
-        img.onerror = function() {
-          this.onerror = null;
-          this.src = currentFinish + '/' + it.file;
-        };
 
         const span = document.createElement('span');
         span.textContent = it.title;
